@@ -1,0 +1,15 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+.DS_Store
+*.sqlite3
+*.log
+# If model files are large consider using Git LFS instead of tracking them in git
+# Uncomment to ignore pickle/model files (only if you store models elsewhere)
+# *.pkl
